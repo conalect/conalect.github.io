@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://conalect.github.io/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/app/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/assets/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/css/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/data/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/includes/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/item/sitemap.conalect.gz
+Sitemap: https://conalect.github.io/src/sitemap.conalect.gz
